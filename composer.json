@@ -1,0 +1,21 @@
+{
+  "name": "wangyi/composer-testone",
+  "description": "test",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Wangyi\\ComposerTestone\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "wangyi",
+      "email": "892368376@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6"
+  }
+}
